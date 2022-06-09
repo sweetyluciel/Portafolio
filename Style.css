@@ -1,0 +1,40 @@
+* {
+    background-color:#adced9;
+    font-family:monospace;
+}
+h1 {
+    color: hwb(199 15% 33%);
+    font-size: 40px;
+}
+h2 {
+    color: rgb(19, 66, 165);
+    font-size: 25px;
+}
+input {
+    font-size: 17px;
+    font-style:oblique
+}
+p {
+    font-size: 15px;
+    font-family:sans-serif
+}
+td { 
+    font-size: 20px;  
+    font-family: serif;
+}
+table {
+    border-collapse:initial;
+    border-spacing: 5px;
+    background: rgba(10, 163, 190, 0.452) url("gradient.gif") bottom left repeat-x;
+    color: rgb(189, 24, 24);
+}
+td, th {
+    background: rgba(67, 218, 238, 0.445);
+    color: #000;
+}
+#perfil {
+    border: 3px solid rgba(15, 69, 170, 0.349);
+    border-radius: 7px;
+    padding: 2px;
+    width: 151px;
+}
